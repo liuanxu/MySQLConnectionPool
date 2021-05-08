@@ -1,1 +1,1 @@
-Little brother,good good learn, day day up!
+Little brother,good good study, day day up!
