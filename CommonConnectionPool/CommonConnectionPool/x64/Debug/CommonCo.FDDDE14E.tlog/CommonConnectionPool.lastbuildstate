@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v141:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit:WindowsTargetPlatformVersion=10.0.17763.0
+Debug|x64|E:\腾讯课堂C++项目\MySQL数据库连接池实现 C++\自写代码\CommonConnectionPool\|

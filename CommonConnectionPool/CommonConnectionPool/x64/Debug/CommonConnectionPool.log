@@ -1,0 +1,32 @@
+﻿  main.cpp
+e:\腾讯课堂c++项目\mysql数据库连接池实现 c++\自写代码\commonconnectionpool\commonconnectionpool\main.cpp(37): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\腾讯课堂c++项目\mysql数据库连接池实现 c++\自写代码\commonconnectionpool\commonconnectionpool\main.cpp(59): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\腾讯课堂c++项目\mysql数据库连接池实现 c++\自写代码\commonconnectionpool\commonconnectionpool\main.cpp(81): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\腾讯课堂c++项目\mysql数据库连接池实现 c++\自写代码\commonconnectionpool\commonconnectionpool\main.cpp(103): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\腾讯课堂c++项目\mysql数据库连接池实现 c++\自写代码\commonconnectionpool\commonconnectionpool\main.cpp(125): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\腾讯课堂c++项目\mysql数据库连接池实现 c++\自写代码\commonconnectionpool\commonconnectionpool\main.cpp(147): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\腾讯课堂c++项目\mysql数据库连接池实现 c++\自写代码\commonconnectionpool\commonconnectionpool\main.cpp(169): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\腾讯课堂c++项目\mysql数据库连接池实现 c++\自写代码\commonconnectionpool\commonconnectionpool\main.cpp(190): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\腾讯课堂c++项目\mysql数据库连接池实现 c++\自写代码\commonconnectionpool\commonconnectionpool\main.cpp(212): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\腾讯课堂c++项目\mysql数据库连接池实现 c++\自写代码\commonconnectionpool\commonconnectionpool\main.cpp(234): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\腾讯课堂c++项目\mysql数据库连接池实现 c++\自写代码\commonconnectionpool\commonconnectionpool\main.cpp(256): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\腾讯课堂c++项目\mysql数据库连接池实现 c++\自写代码\commonconnectionpool\commonconnectionpool\main.cpp(278): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\腾讯课堂c++项目\mysql数据库连接池实现 c++\自写代码\commonconnectionpool\commonconnectionpool\main.cpp(300): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\腾讯课堂c++项目\mysql数据库连接池实现 c++\自写代码\commonconnectionpool\commonconnectionpool\main.cpp(322): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\腾讯课堂c++项目\mysql数据库连接池实现 c++\自写代码\commonconnectionpool\commonconnectionpool\main.cpp(344): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+  CommonConnectionPool.vcxproj -> E:\腾讯课堂C++项目\MySQL数据库连接池实现 C++\自写代码\CommonConnectionPool\x64\Debug\CommonConnectionPool.exe
